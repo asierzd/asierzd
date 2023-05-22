@@ -2,7 +2,7 @@
 
 > ### Content
 
-- **Programming-Fundamentals-in-C-Practices:** Agenda programmed in C with arrays and pointers for the Programming Fundamentals subject.
+- **Programming-Fundamentals-in-C-Practices:** Agenda programmed in C using linked lists, implemented with arrays, pointers and structs for the Programming Fundamentals subject.
 - **Algorithms-And-Complexity-Practices:** Practices from Algorithms and Complexity subject.
 
 # 
