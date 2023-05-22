@@ -1,5 +1,8 @@
 ## ASIER ZD's GITHUB
 
+I am a software engineer and a Robotics and Control systems MSc student.
+In this account I will be uploading my college practices and personal projects.
+
 > ### Content
 
 - **Programming-Fundamentals-in-C-Practices:** Agenda manager programmed in C using linked lists, implemented with arrays, pointers and structs for the Programming Fundamentals subject.
