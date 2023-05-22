@@ -2,8 +2,8 @@
 
 > ### Content
 
-- Programming-Fundamentals-in-C-Practices: Agenda programmed in C with arrays and pointers for the Programming Fundamentals subject.
-- Algorithms-And-Complexity-Practices: Practices from Algorithms and Complexity subject.
+- **Programming-Fundamentals-in-C-Practices:** Agenda programmed in C with arrays and pointers for the Programming Fundamentals subject.
+- **Algorithms-And-Complexity-Practices:** Practices from Algorithms and Complexity subject.
 
 # 
 
