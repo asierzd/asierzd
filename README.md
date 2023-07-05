@@ -1,6 +1,6 @@
 ## ASIER ZD's GITHUB
 
-I am a software engineer and a Robotics and Control systems MSc student.
+I am a software engineer and a Robotics MSc student.
 In this account I will be uploading my college practices and personal projects.
 
 > ### Content
