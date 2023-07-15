@@ -6,7 +6,7 @@ In this account I will be uploading my college practices and personal projects.
 > ### Content
 
 - [**Programming-Fundamentals-in-C-Practices:**](https://github.com/asierzd/Programming-Fundamentals-in-C-Practices) Agenda manager programmed in C using linked lists, implemented with arrays, pointers and structs for the Programming Fundamentals subject.
-- **Algorithms-And-Complexity-Practices:** Practices from Algorithms and Complexity subject.
+- **Algorithms-And-Complexity-Practices:** Practices from Algorithms and Complexity subject. It contains practices about complexity analysis, sorting algorithms, Divide and conquer, Backtracking/Branch&Bound, Greedy and Dynamic programming algorithmic schemes.
 
 # 
 
