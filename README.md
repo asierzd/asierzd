@@ -13,7 +13,8 @@ Some practices I made during my study of software engineering:
 - [**Algorithms-And-Complexity-Practices:**](https://github.com/asierzd/Algorithms-And-Complexity-Practices) Practices from Algorithms and Complexity subject. It contains practices about complexity analysis, sorting algorithms, Divide and conquer, Backtracking/Branch&Bound, Greedy and Dynamic programming algorithmic schemes.
 
 Other practices I made during my study of robotics master:
-`Comming soon!`
+- [**DataAnalytics:**](https://github.com/asierzd/DataAnalytics) Tasks I made for the Data Analytics subject of the MSc I am studying, related to data processing and model selection.
+`More comming soon!`
 
 Micellanea:
 - Web page: [https://asierzd.github.io/](https://asierzd.github.io/) `In progress!`
