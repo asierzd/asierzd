@@ -17,7 +17,7 @@ Other practices I made during my study of robotics master:
 `More comming soon!`
 
 Micellanea:
-- Web page: [https://asierzd.github.io/](https://asierzd.github.io/) `In progress!`
+- Web page: [https://asierzd.github.io/](https://asierzd.github.io/) `Comming soon!`
 
 # 
 
