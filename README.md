@@ -13,6 +13,9 @@ Some practices I made during my study of software engineering:
 Other practices I made during my study of robotics master:
 `Comming soon!`
 
+Micellanea:
+- Web page: [https://asierzd.github.io/](https://asierzd.github.io/) `In progress!`
+
 # 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=asierzd&show_icons=true&icon_color=a80000&text_color=505050&bg_color=e0e0e0&title_color=003f61&custom_title=Stats"/>
