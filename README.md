@@ -14,6 +14,7 @@ Some practices I made during my study of software engineering:
 
 Other practices I made during my study of robotics MSc:
 - [**DataAnalytics:**](https://github.com/asierzd/DataAnalytics) Tasks I made for the Data Analytics subject of the MSc I am studying, related to data processing and model selection.
+- [**ArtificialVision:**](https://github.com/asierzd/ArtificialVision) Exercises from Artificial Vision subject of the MSc I am studying. Image processing, and computer vision with Matlab.
 `More comming soon!`
 
 Micellanea:
