@@ -2,8 +2,8 @@
 
 > ### About me
 
-I am a software engineer and a robotics MSc student.
-In this account I will be uploading my university practices and personal projects.
+I am a **software engineer** and a **robotics MSc** student.
+In this account I will be uploading my university practices and personal projects, and will try to contribute as much as possible to the open source and free software community.
 
 > ### Content
 
