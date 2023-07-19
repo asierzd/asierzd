@@ -17,7 +17,7 @@ Other practices I made during my study of **robotics MSc**:
 - [**ArtificialVision:**](https://github.com/asierzd/ArtificialVision) Exercises from Artificial Vision subject of the MSc I am studying. Image processing, and computer vision with Matlab.
 `More comming soon!`
 
-Micellanea:
+**Miscellanea**:
 - Web page: [https://asierzd.github.io/](https://asierzd.github.io/) `Comming soon!`
 
 # 
