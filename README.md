@@ -7,12 +7,12 @@ In this account I will be uploading my university practices and personal project
 
 > ### Content
 
-Some practices I made during my study of software engineering:
+Some practices I made during my study of **software engineering**:
 - [**Multilayer-Perceptron-In-C**:](https://github.com/asierzd/Multilayer-Perceptron-In-C) This is my solution to a final practice that consisted in developing a multilayer perceptron from the Programming Fundamentals subject.
 - [**Programming-Fundamentals-in-C-Practices:**](https://github.com/asierzd/Programming-Fundamentals-in-C-Practices) Programmed in C using linked lists, implemented with dynamic memory allocation, arrays, pointers and structs for the Programming Fundamentals subject.
 - [**Algorithms-And-Complexity-Practices:**](https://github.com/asierzd/Algorithms-And-Complexity-Practices) Practices from Algorithms and Complexity subject. It contains practices about complexity analysis, sorting algorithms, Divide and conquer, Backtracking/Branch&Bound, Greedy and Dynamic programming algorithmic schemes.
 
-Other practices I made during my study of robotics MSc:
+Other practices I made during my study of **robotics MSc**:
 - [**DataAnalytics:**](https://github.com/asierzd/DataAnalytics) Tasks I made for the Data Analytics subject of the MSc I am studying, related to data processing and model selection.
 - [**ArtificialVision:**](https://github.com/asierzd/ArtificialVision) Exercises from Artificial Vision subject of the MSc I am studying. Image processing, and computer vision with Matlab.
 `More comming soon!`
