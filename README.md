@@ -25,6 +25,8 @@ Other practices I made during my study of **robotics MSc**:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=asierzd&show_icons=true&icon_color=a80000&text_color=505050&bg_color=e0e0e0&title_color=003f61&custom_title=Stats"/>
 
+</br>
+
 ### Contact me (not ready)
 
 <br>
