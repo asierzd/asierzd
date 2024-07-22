@@ -4,8 +4,6 @@
   <img height="200" src="https://media1.tenor.com/m/Os38-K7VHL4AAAAd/shibainu-typing.gif"  />
 </div>
 
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=asierzd.asierzd&"  />
 </div>
