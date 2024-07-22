@@ -1,8 +1,5 @@
 <h2 align="left">ASIER ZD's GITHUB</h2>
-
-<div align="center">
-  <img height="200" src="https://media1.tenor.com/m/Os38-K7VHL4AAAAd/shibainu-typing.gif"  />
-</div>
+<img align="right" height="150" src="https://media1.tenor.com/m/Os38-K7VHL4AAAAd/shibainu-typing.gif"  />
 
 ###
 
