@@ -1,11 +1,16 @@
 ## ASIER ZD's GITHUB
 
-> ### About me
+<h2 align="left">About me</h2>
+###
 
 I am a **software engineer** and a **robotics MSc** student.
 In this account I will be uploading my university practices and personal projects, and contribute to the open source and free software community.
 
-> ### Content
+###
+
+<h2 align="left">Content</h2>
+
+###
 
 Some practices I made during my study of **software engineering**:
 - [**Multilayer-Perceptron-In-C**:](https://github.com/asierzd/Multilayer-Perceptron-In-C) This is my solution to a final practice that consisted in developing a multilayer perceptron from the Programming Fundamentals subject.
@@ -57,7 +62,9 @@ Other practices I made during my study of **robotics MSc**:
 
 ###
 
-### Contact me (not ready)
+<h2 align="left">Contact me (Not Ready)</h2>
+
+###
 
 > [![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:example@gmail.com)
 > 
