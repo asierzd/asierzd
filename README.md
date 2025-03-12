@@ -1,8 +1,10 @@
 <h2 align="center">ASIER ZD's GITHUB</h2>
 
+<!---
 <div align="center">
   <img height="200" src="https://media1.tenor.com/m/Os38-K7VHL4AAAAd/shibainu-typing.gif"  />
 </div>
+-->
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=asierzd.asierzd&"  />
@@ -34,8 +36,10 @@ Other practices I made during my study of **robotics MSc**:
 - [**HanoiTowersABBRobot:**](https://github.com/asierzd/HanoiTowersABBRobot) Implementation of a solution to the Hanoi Towers Problem using an ABB robot and programmed in RAPID language, for the robot programming subject.
 - `More comming soon!`
 
+<!---
 **Miscellanea**:
 - Web page: [https://asierzd.github.io/](https://asierzd.github.io/) `Comming soon!`
+-->
 
 ###
 
