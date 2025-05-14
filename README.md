@@ -16,7 +16,8 @@
 
 ###
 
-I am a **software engineer** and a **robotics MSc** student.
+I am a **Software Engineer** with a **MSc in Robotics and Control Systems**, and a **MSc in Development and Operations (DevOps)**.
+
 In this account I will be uploading my university practices and personal projects, and contribute to the open source and free software community.
 
 ###
@@ -25,7 +26,7 @@ In this account I will be uploading my university practices and personal project
 
 ###
 
-Some practices I made during my study of **software engineering**:
+Some practices I made during my study of **Software Engineering**:
 - [**Multilayer-Perceptron-In-C**:](https://github.com/asierzd/Multilayer-Perceptron-In-C) This is my solution to a final practice that consisted in developing a multilayer perceptron from the Programming Fundamentals subject.
 - [**Programming-Fundamentals-in-C-Practices:**](https://github.com/asierzd/Programming-Fundamentals-in-C-Practices) Programmed in C using linked lists, implemented with dynamic memory allocation, arrays, pointers and structs for the Programming Fundamentals subject.
 - [**Algorithms-And-Complexity-Practices:**](https://github.com/asierzd/Algorithms-And-Complexity-Practices) Practices from Algorithms and Complexity subject. It contains practices about complexity analysis, sorting algorithms, Divide and conquer, Backtracking/Branch&Bound, Greedy and Dynamic programming algorithmic schemes.
